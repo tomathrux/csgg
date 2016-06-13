@@ -1,0 +1,29 @@
+
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.thumbnail:hover {
+  opacity: 0.7;
+  background-color: White;
+}
+
+.navbar-brand {
+  font-family: 'Open Sans';
+  font-weight: 800;
+  color: #000f10
+}
+
+.navbar-text {
+  font-family: 'Open Sans';
+  font-weight: 600;
+}

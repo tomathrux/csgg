@@ -1,0 +1,49 @@
+html {
+  overflow-y: scroll;
+}
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+a {
+  color: #00B7FF;
+};
+
+.navbar {
+  margin-bottom: 20px;
+}
+
+.main-thumbnail:hover {
+  opacity: 0.7;
+  background-color: White;
+}
+
+.navbar-brand {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+.navbar-text {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+};
+
+label {
+  font-family: 'Lato';
+  font-weight: 700;
+}
+
+li {
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+}
+
+input.search-query {
+  background-color: #222;
+  color: #ffffff;
+}
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}
